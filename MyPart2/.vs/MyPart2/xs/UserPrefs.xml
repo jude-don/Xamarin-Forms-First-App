@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B2760F46-78F8-44B1-B9DE-EE76C7BD5EF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyPart2/MyPart2ViewModel.cs">
+    <Files>
+      <File FileName="MyPart2/ScanDocPage.xaml" Line="1" Column="21" />
+      <File FileName="MyPart2/ScanDocPage.xaml.cs" Line="161" Column="86" />
+      <File FileName="MyPart2.Android/MainActivity.cs" Line="5" Column="23" />
+      <File FileName="MyPart2/MyPart2ViewModel.cs" Line="2" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyPart2" expanded="True">
+            <Node name="MyPart2" expanded="True">
+              <Node name="MyPart2ViewModel.cs" selected="True" />
+              <Node name="ScanDocPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MyPart2.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyPart2.Android AndroidDesignerPreferredTheme="MainTheme" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyPart2.iOS automaticSigning="True" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ED71B91A-42DA-4FBC-A604-7E925A08ACC8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="87AMNGFV3Z" TeamId="NW6JD2NT7P" />
+  </MonoDevelop.Ide.ItemProperties.MyPart2.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

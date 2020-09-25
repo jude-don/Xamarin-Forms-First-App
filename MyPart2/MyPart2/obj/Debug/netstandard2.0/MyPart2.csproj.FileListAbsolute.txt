@@ -1,0 +1,16 @@
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.csprojAssemblyReference.cache
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.AssemblyInfoInputs.cache
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.AssemblyInfo.cs
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.csproj.CoreCompileInputs.cache
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.dll
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/ref/MyPart2.dll
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/MyPart2.pdb
+/Users/jude/Projects/MyPart2/MyPart2/bin/Debug/netstandard2.0/MyPart2.deps.json
+/Users/jude/Projects/MyPart2/MyPart2/bin/Debug/netstandard2.0/MyPart2.dll
+/Users/jude/Projects/MyPart2/MyPart2/bin/Debug/netstandard2.0/ref/MyPart2.dll
+/Users/jude/Projects/MyPart2/MyPart2/bin/Debug/netstandard2.0/MyPart2.pdb
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/ScanDocPage.xaml.g.cs
+/Users/jude/Projects/MyPart2/MyPart2/obj/Debug/netstandard2.0/DocTypePage.xaml.g.cs

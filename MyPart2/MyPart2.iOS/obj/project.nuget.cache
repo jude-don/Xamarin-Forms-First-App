@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/FcPoDMt5LPpD13dUuzH1abuHAkfljAUO0Dn6UFGuchjGVgvbl2pickgVALUqrW3ODeBBINROhmERMAapZt2w==",
+  "success": true,
+  "projectFilePath": "/Users/jude/Projects/MyPart2/MyPart2.iOS/MyPart2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/jude/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/jude/.nuget/packages/rg.plugins.popup/2.0.0.5/rg.plugins.popup.2.0.0.5.nupkg.sha512",
+    "/Users/jude/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
+    "/Users/jude/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/jude/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512",
+    "/Users/jude/.nuget/packages/xamarin.plugin.filepicker/2.1.41/xamarin.plugin.filepicker.2.1.41.nupkg.sha512"
+  ],
+  "logs": []
+}
